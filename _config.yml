@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+minimal_mistakes_skin: "dirt"
+title: Clément Gras
+description: 
+markdown: kramdown
+plugins:
+  - jekyll-multiple-languages-plugin
+  - jemoji
+  - jekyll-seo-tag
+show_downloads: false
+github:
+  is_project_page: true
+  languages: ["fr", "en"]
