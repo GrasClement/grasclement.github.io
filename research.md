@@ -27,7 +27,7 @@ order: 1
 
 
 **[Advising Busy Decision Makers: Incentives in Costly Communication Settings](){}**   
-
+  > Draft coming soon!
 <details>
   <summary> Abstract </summary> 
   <br>
@@ -36,7 +36,7 @@ order: 1
   </blockquote>
  </details>
 <br>
-  > Draft coming soon!
+
   
 ![](https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/overload.jpeg)
 
