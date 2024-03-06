@@ -26,7 +26,7 @@ order: 1
 ## Work in Progress
 
 
-**[Advising Busy Decision Makers: Incentives in Costly Communication Settings](){}**   
+**[Advising Busy Decision Makers: Incentives in Costly Communication Settings]()**   
 
 <details>
   <summary> Abstract </summary> 
