@@ -39,7 +39,7 @@ order: 1
 <br>
   > Draft coming soon!
   
-![]("https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/overload.jpeg")
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/overload.jpeg)
 
 
 
