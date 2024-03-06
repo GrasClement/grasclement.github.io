@@ -8,7 +8,7 @@ order: 1
 # Research
 
 **[Hybrid Platform Screening]()**  *with [Guillaume Thebaudin](https://www.linkedin.com/in/guillaumethebaudin){:target="_blank"}.*
-<details>
+<details open>
   <summary> Abstract </summary>  
   <br>
   <blockquote>
@@ -17,7 +17,7 @@ order: 1
 </details> 
 <br>
 
-*Presented at internal seminars at Télécom Paris and Paris School of Economics, regulation and environment seminar at Paris School of Economics, EARIE 2023, CRESSE 2023 and AFREN (AFSE 2023)*
+<small>*Presented at internal seminars at Télécom Paris and Paris School of Economics, regulation and environment seminar at Paris School of Economics, EARIE 2023, CRESSE 2023 and AFREN (AFSE 2023)*</small>
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
 
@@ -26,7 +26,7 @@ order: 1
 
 
 **[Advising Busy Decision Makers: Incentives in Costly Communication Settings]()**   
-<details>
+<details open>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
@@ -38,7 +38,7 @@ order: 1
   
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/overload.jpeg)
 
-*Presented at internal seminars at Télécom Paris and Paris School of Economics, IOEA 2022 *
+<small>*Presented at internal seminars at Télécom Paris and Paris School of Economics, IOEA 2022, more presentations to come*</small>
 
 **[Who lays down the law?  Informational lobbying in the French assembly]()**  *with [Rosanne Logeart](https://rosannelogeart.github.io/){:target="_blank"}.*
   > Draft coming soon!
@@ -57,12 +57,12 @@ order: 1
  </details>
 <br>
 
-**[Faut-il démanteler les GAFA? Entretien avec Pierre-Jean Benghozi et Sandra Desmettre]()**  *[Regards Croisés sur l'Économie](https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees](https://www.cairn.info/publications-de-Clément-Gras--706251.htm)*
+**[Faut-il démanteler les GAFA? Entretien avec Pierre-Jean Benghozi]()**  *[Regards Croisés sur l'Économie,  propos receuillis avec Sandra Desmettre]((https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees](https://www.cairn.info/publications-de-Clément-Gras--706251.htm))*
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-   Interview réalisé dans le cadre du *[25e numéro de Regards croisés sur l'économie](https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm)*
+   Interview réalisé dans le cadre du *[25e numéro de Regards croisés sur l'économie]((https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm))*
   </blockquote>
  </details>
 <br>
