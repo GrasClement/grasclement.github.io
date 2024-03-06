@@ -9,6 +9,14 @@ I have been into painting and photography on and off since my early childhood. I
 
 Below are some of my recent projects: 
 
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/5ashatter.jpg)
+
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/5balbert.jpg)
+
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/6elevator.jpg)
+
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/6pear.jpg)
+
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/1cut.jpg)
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/1zip.jpg)
@@ -24,14 +32,6 @@ Below are some of my recent projects:
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/4arch.jpg)
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/4buca.jpg)
-
-![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/5ashatter.jpg)
-
-![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/5balbert.jpg)
-
-![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/6elevator.jpg)
-
-![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/6pear.jpg)
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/photo_portfolio/7dry.jpg)
 
