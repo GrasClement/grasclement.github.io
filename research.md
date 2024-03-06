@@ -9,7 +9,7 @@ order: 1
 
 ## Working Papers
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Guillaume Thebaudin](https://www.linkedin.com/in/guillaumethebaudin){:target="_blank"}.*
+**[Hybrid Platform Screening]()**  *with [Guillaume Thebaudin](https://www.linkedin.com/in/guillaumethebaudin){:target="_blank"}.*
 
 <details>
   <summary> Abstract </summary>  
@@ -20,7 +20,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-![](https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/Createur_JUSTIN_TALLIS_Credits_AFP.jpg)
+![](https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
 
 
 ## Work in Progress
@@ -38,7 +38,7 @@ order: 1
 <br>
   > Draft coming soon!
   
-<img src="https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/overload.jpeg">
+![]("https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/overload.jpeg")
 
 
 
