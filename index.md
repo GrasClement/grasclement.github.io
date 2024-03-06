@@ -9,7 +9,7 @@ order: 0
 
 I am an Economics PhD candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. I am working under the supervision of [Jean-Philippe Tropeano](https://www.parisschoolofeconomics.eu/fr/tropeano-jean-philippe/){:target="_blank"}.
 
-Formerly, I was a student (normalien scolarship) at the Economics and Business Administration Department of [Ecole Normale Superieure Paris-Saclay](https://ens-paris-saclay.fr/en/application/competitive-admission){:target="_blank"} and the Analysis and Policy in Economics masters program at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France. 
+Formerly, I was a student (normalien scholarship) at the Economics and Business Administration Department of [Ecole Normale Superieure Paris-Saclay](https://ens-paris-saclay.fr/en/application/competitive-admission){:target="_blank"} and the Analysis and Policy in Economics masters program at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France. 
 
 My research is at the intersection of organizational dynamics and information economics. It examines the role of information asymmetries within and between organizations, utilizing a multidisciplinary approach to address complex issues. Much of my motivation comes from my experience working for the French and European public administrations during my undergraduate studies.
 
