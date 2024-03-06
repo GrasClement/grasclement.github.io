@@ -20,7 +20,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-![](https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
 
 
 ## Work in Progress
@@ -38,7 +38,7 @@ order: 1
 <br>
   > Draft coming soon!
   
-![]("https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/overload.jpeg")
+![]("https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/overload.jpeg")
 
 
 
@@ -46,7 +46,7 @@ order: 1
 
   > Draft coming soon!
 
-![](https://raw.githubusercontent.com/cl2m2ntgr4s/clementgras.github.io/main/images/lobbying-aurel-lemonde.jpg)
+![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/lobbying-aurel-lemonde.jpg)
 
 
 
