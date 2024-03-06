@@ -11,7 +11,7 @@ order: 2
 
 - [Bachelor's Degree in Economics](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/licence-L/licence-economie-KBTDQ2ZO.html){:target="_blank"}
     - **Mathematics: algebra, matrix calculus and optimization**, L2 (General Program, Double Majors and ENS Prep School), Pr. Biagio Speciale.
-    - **Microeconomics (Competitive equilibrium and Market failures)**,  L2 (General Program, Double Majors and ENS Prep School), Pr. Stephane Gauthier.
+    - **Microeconomics: Competitive equilibrium and Market failures**,  L2 (General Program, Double Majors and ENS Prep School), Pr. Stephane Gauthier.
 
 # Former Position
 
