@@ -1,16 +1,11 @@
 ---
 ---
-#top-menu li > a:hover {
- box-shadow: 0 10px 0 0 #216c45 !important; /*** COLOR AND THICKNESS OF THE LINE ON HOVER ***/
- padding-bottom: 34px;
- opacity: 1 !important;
-}
-#top-menu li li a {
- padding-bottom: 6px !important;
-}
-#top-menu li.current-menu-item > a,
-.et-fixed-header #top-menu li.current-menu-item > a {
- border: 10px solid #216c45; /*** COLOR AND THICKNESS OF THE BOX ***/
- padding: 10px;
- margin-bottom: -10px;
+
+a {
+  color: #216c45;
+  text-decoration: none;
+    cursor: pointer;
+  &:hover, &:active {
+    color: #216c45;
+  }
 }
