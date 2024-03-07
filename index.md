@@ -26,5 +26,5 @@ Auparavant, j'étais étudiant (normalien fonctionnaire stagiaire) au Départeme
 
 Ma recherche se situe à l'intersection de la théorie des organisations et de l'économie de l'information. Plus précisement, je m'intéresse au rôle des asymétries d'information au sein mais aussi entre les organisations. J'utilise autant les outils théoriques et empiriques de la microéconomie que des concepts empreintés aux sciences politiques, aux sciences de gestion et à l'informatique. Une grande partie de ma motivation provient de mon expérience au sein des administrations publiques française et européenne pendant mes études.
 
-Je travaille actuellement sur l'effet du lobbying sur le processus législatif français, sur le coup de la communication et sur les choix de modération des plateformes en ligne.
+Je travaille actuellement sur l'effet du lobbying sur le processus législatif français, sur le coût de la communication et sur les choix de modération des plateformes en ligne.
 
