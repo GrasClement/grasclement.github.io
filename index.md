@@ -15,7 +15,7 @@ My research is at the intersection of organizational dynamics and information ec
 
 I am currently working on the effects of lobbying on the French lawmaking process, the interplay between communication and incentive constraints in delegation problems, and the role of vertical integration in online platform screening choices. 
 
-### [CV en français]([https://grasclement.github.io/main/documents](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/documents/Gras_CV_fr.pdf)){:target="_blank"}
+### [CV en français](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/documents/Gras_CV_fr.pdf){:target="_blank"}
 
 
 ## Bienvenue
