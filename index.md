@@ -9,13 +9,13 @@ order: 0
 
 I am an Economics Ph.D candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. I am working under the supervision of [Jean-Philippe Tropeano](https://www.parisschoolofeconomics.eu/fr/tropeano-jean-philippe/){:target="_blank"}.
 
-Formerly, I was a student (normalien scholarship) at the Economics and Business Administration Department of [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/application/competitive-admission){:target="_blank"} and the Analysis and Policy in Economics Masters program at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France. 
+Formerly, I was a student (normalien scholarship) at the Economics and Business Administration Department of [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/application/competitive-admission){:target="_blank"} and the Analysis and Policy in Economics Masters program at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"}. 
 
 My research is at the intersection of organizational dynamics and information economics. It examines the role of information asymmetries within and between organizations, utilizing a multidisciplinary approach to address complex issues. Much of my motivation comes from my experience working for the French and European public administrations during my undergraduate studies.
 
 I am currently working on the effects of lobbying on the French lawmaking process, the interplay between communication and incentive constraints in delegation problems, and the role of vertical integration in online platform screening choices. 
 
-### [CV en français](https://clementgras.github.io/documents/Gras_CV_fr.pdf){:target="_blank"}
+### [CV en français](https://clementgras.github.io/main/documents/Gras_CV_fr.pdf){:target="_blank"}
 
 
 ## Bienvenue
