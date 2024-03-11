@@ -17,7 +17,7 @@ order: 1
 </details> 
 <br>
 
-[Working Paper](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/documents/Hybrid_platform_screening.pdf){:target="_blank"}
+### [Working Paper](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/documents/Hybrid_platform_screening.pdf){:target="_blank"}
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
 <small>*Presented at internal seminars at Télécom Paris and Paris School of Economics, regulation and environment seminar at Paris School of Economics, EARIE 2023, CRESSE 2023 and AFREN (AFSE 2023)*</small>
