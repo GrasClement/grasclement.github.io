@@ -16,7 +16,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-  > Draft available on request!
+  > Draft available upon request!
 
 
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/Createur_JUSTINTALLIS_Credits_AFP.jpg)
@@ -27,7 +27,7 @@ order: 1
 ## Work in Progress
 
 
-**[Advising Busy Decision Makers: Incentives in Costly Communication Settings]()**   
+**[Advising Busy Decision Makers: Incentives in Costly Communication Settings]()**   *Upcoming Talk: AFSE 2024*
 <details open>
   <summary> Abstract </summary> 
   <br>
@@ -36,10 +36,10 @@ order: 1
   </blockquote>
  </details>
 <br>
-  > Draft available on request!
+  > Draft available upon request!
   
 ![](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/images/overload.jpeg)
-<small>*Presented at internal seminars at Télécom Paris and Paris School of Economics, IOEA 2022, more presentations to come*</small>
+<small>*Presented at internal seminars at Télécom Paris and Paris School of Economics, IOEA 2022</small>
 
 **[Who lays down the law?  Informational lobbying in the French assembly]()**  *with [Rosanne Logeart](https://rosannelogeart.github.io/){:target="_blank"}.*
   > Draft coming soon!
