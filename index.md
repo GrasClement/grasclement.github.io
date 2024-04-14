@@ -15,9 +15,6 @@ My research is at the intersection of organizational dynamics and information ec
 
 Currently, my research focuses on the effects of lobbying on the French lawmaking process, the interplay between communication and incentive constraints in delegation problems, and the role of vertical integration in online platform screening choices.
 
-### [CV en français](https://raw.githubusercontent.com/grasclement/grasclement.github.io/main/documents/GRAS_CV_fr.pdf){:target="_blank"}
-
-
 ## Bienvenue
 
 Je suis doctorant en économie à [l'Ecole d'Economie de Paris (PSE)](https://www.parisschoolofeconomics.eu/en){:target="_blank"} et à [l'École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Je travaille sous la direction de [Jean-Philippe Tropeano](https://www.parisschoolofeconomics.eu/fr/tropeano-jean-philippe/){:target="_blank"}.
