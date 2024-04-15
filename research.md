@@ -48,7 +48,7 @@ order: 1
 
 ## Outreach in French
 
-**[Quel prix pour vos données?]()**  *[Blog de la revue Regards Croisés sur l'Économie](https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees)*
+**[Quel prix pour vos données?]()**  *[Blog de la revue Regards Croisés sur l'Économie](https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees){:target="_blank"}*
 <details>
   <summary> Abstract </summary> 
   <br>
@@ -58,12 +58,12 @@ order: 1
  </details>
 <br>
 
-**[Faut-il démanteler les GAFA? Entretien avec Pierre-Jean Benghozi]()**  *[Regards Croisés sur l'Économie,  propos receuillis avec Sandra Desmettre]((https://www.cairn.info/publications-de-Clément-Gras--706251.htm))*
+**[Faut-il démanteler les GAFA? Entretien avec Pierre-Jean Benghozi]()**  *[Regards Croisés sur l'Économie,  propos receuillis avec Sandra Desmettre](https://www.cairn.info/publications-de-Clément-Gras--706251.htm){:target="_blank"}*
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-   Interview réalisé dans le cadre du *[25e numéro de Regards croisés sur l'économie]((https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm))*, La fabrique de la concurrence.
+   Interview réalisé dans le cadre du *[25e numéro de Regards croisés sur l'économie](https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm){:target="_blank"}*, La fabrique de la concurrence.
   </blockquote>
  </details>
 <br>
