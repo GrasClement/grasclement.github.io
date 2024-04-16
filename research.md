@@ -53,7 +53,7 @@ order: 1
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-   Le *[23e numéro de Regards croisés sur l'économie](https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees){:target="_blank"}*, Donner ses données, contient toutes les clefs pour comprendre les débats du moment autour des données personnelles et de l'économie du numérique. Ce billet propose d'aller encore plus loin, en analysant le pouvoir que confère vos données aux entreprises qui les collectent.
+   Le [23e numéro de Regards croisés sur l'économie](https://blogs.alternatives-economiques.fr/rcerevue/2019/08/23/quel-prix-pour-vos-donnees){:target="_blank"} , Donner ses données, contient toutes les clefs pour comprendre les débats du moment autour des données personnelles et de l'économie du numérique. Ce billet propose d'aller encore plus loin, en analysant le pouvoir que confère vos données aux entreprises qui les collectent.
   </blockquote>
  </details>
 <br>
@@ -63,7 +63,7 @@ order: 1
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-   Interview réalisé dans le cadre du *[25e numéro de Regards croisés sur l'économie](https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm){:target="_blank"}*, La fabrique de la concurrence.
+   Interview réalisé dans le cadre du [25e numéro de Regards croisés sur l'économie](https://www.cairn.info/revue-regards-croises-sur-l-economie-2019-2.htm){:target="_blank"} , La fabrique de la concurrence.
   </blockquote>
  </details>
 <br>
