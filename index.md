@@ -5,7 +5,7 @@ filename: index
 order: 0
 ---  
 
-## Welcome
+# Welcome
 
 I am a Ph.D candidate in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}, under the supervision of [Jean-Philippe Tropeano](https://www.parisschoolofeconomics.eu/fr/tropeano-jean-philippe/){:target="_blank"}.
 
